@@ -1,0 +1,38 @@
+{
+  "scene": "library",
+  "clues": [
+    "mirror_clue",
+    "shadow_face",
+    "guardian_note"
+  ],
+  "history": [
+    "intro",
+    "letter",
+    "luma",
+    "mother",
+    "library",
+    "mirror",
+    "truth",
+    "ending_light",
+    "intro",
+    "letter",
+    "luma",
+    "mother",
+    "library",
+    "mirror",
+    "truth",
+    "ending_light",
+    "intro",
+    "letter",
+    "luma",
+    "mother",
+    "library",
+    "mirror",
+    "truth",
+    "ending_light",
+    "intro",
+    "letter",
+    "luma",
+    "mother"
+  ]
+}

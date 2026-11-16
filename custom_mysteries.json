@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Custom Mystery 1",
+    "location": "Your Custom Realm",
+    "difficulty": "CUSTOM",
+    "story": "A scientist creates an AI robot that predicts which student will win a quiz. The robot predicts that Sara will win.\n\nBefore the quiz starts, the scientist discovers that the AI was trained using Sara’s previous quiz results, but it knows nothing about the other students.\n\nThe AI still says, “Sara will definitely win!”\n\nWhat is the biggest problem with this AI prediction?",
+    "puzzle": "A scientist creates an AI robot that predicts which student will win a quiz. The robot predicts that Sara will win.\n\nBefore the quiz starts, the scientist discovers that the AI was trained using Sara’s previous quiz results, but it knows nothing about the other students.\n\nThe AI still says, “Sara will definitely win!”\n\nWhat is the biggest problem with this AI prediction?",
+    "answers": [
+      "The AI has incomplete information. It only knows Sara’s past results, so it cannot fairly or confidently predict that she will definitely win."
+    ],
+    "keywords": [],
+    "hints": [
+      "Think about what information the AI has and what information is missing."
+    ],
+    "solution": "The correct answer is: The AI has incomplete information. It only knows Sara’s past results, so it cannot fairly or confidently predict that she will definitely win."
+  },
+  {
+    "title": "Custom Mystery 2",
+    "location": "Your Custom Realm",
+    "difficulty": "CUSTOM",
+    "story": "A magical door has three buttons: red, blue, and green. Only one button opens the door. A note says: “The correct button is not red.” Which button should I try first, and what clue would help me solve the mystery?",
+    "puzzle": "A magical door has three buttons: red, blue, and green. Only one button opens the door. A note says: “The correct button is not red.” Which button should I try first, and what clue would help me solve the mystery?",
+    "answers": [
+      "try either the blue or green button first. the clue only tells us that red is incorrect, so we cannot know whether blue or green is correct without another clue.”"
+    ],
+    "hints": [
+      "The note tells you that the red button is wrong. Think about the two buttons that are left!”"
+    ],
+    "solution": "The correct answer is: Try either the blue or green button first. The clue only tells us that red is incorrect, so we cannot know whether blue or green is correct without another clue.”"
+  }
+]
